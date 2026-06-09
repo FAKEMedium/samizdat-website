@@ -16,6 +16,8 @@ lib/Samizdat/resources/locale/website/sv/website.po
 lib/Samizdat/resources/locale/website/website.pot
 lib/Samizdat/resources/locale/website/zh/website.po
 lib/Samizdat/resources/migrations/pg/50-website.sql
+lib/Samizdat/resources/migrations/pg/50-website/1/down.sql
+lib/Samizdat/resources/migrations/pg/50-website/1/up.sql
 lib/Samizdat/resources/templates/website/chunks/domains.html.ep
 lib/Samizdat/resources/templates/website/chunks/domains.js
 lib/Samizdat/resources/templates/website/chunks/headlinebuttons.html.ep
